@@ -1,2 +1,3 @@
-# metamorphosis
-metamorphosis
+# Metamorphosis
+
+Experiments with kafka, typescript
