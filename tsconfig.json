@@ -1,0 +1,13 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": false,
+    "removeComments": false,
+    "preserveConstEnums": true,
+    "sourceMap": false,
+    "experimentalDecorators": true,
+    "declaration": true
+  }
+
+}
